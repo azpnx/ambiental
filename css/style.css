@@ -1,0 +1,14 @@
+
+.down { /* Feito para posicionar o texto do slider em baixo no centro */
+    margin-top: 180px;
+}
+
+ /* Aumenta o tamanho do Link */
+a.maior{
+    font-size: 18px;
+}
+
+.conteudo{
+    padding: 30px;
+    margin-left: 500px;
+}
