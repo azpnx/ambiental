@@ -1,9 +1,7 @@
+$(document).ready(function(){
+  $('.sidenav').sidenav();
+});
 
-  // Or with jQuery
-
-  $(document).ready(function(){
-    $('.slider').slider();
-  });
-
-
-  
+$(document).ready(function(){
+  $('.slider').slider();
+});
